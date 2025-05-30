@@ -33,6 +33,8 @@ To empower businesses and individuals by creating digital solutions that are not
 ### 🧑‍💻 [Founder Name 1]
 **Chief Executive Officer & Co-Founder**
 
+![Founder 1](https://via.placeholder.com/200x200/667eea/ffffff?text=CEO)
+
 *Visionary leader with 10+ years in software development and business strategy. Passionate about turning innovative ideas into market-ready solutions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/founder1)
@@ -43,6 +45,8 @@ To empower businesses and individuals by creating digital solutions that are not
 
 ### 👩‍💻 [Founder Name 2]
 **Chief Technology Officer & Co-Founder**
+
+![Founder 2](https://via.placeholder.com/200x200/667eea/ffffff?text=CTO)
 
 *Technical innovator with expertise in full-stack development and system architecture. Committed to building scalable, robust solutions.*
 
@@ -59,9 +63,21 @@ To empower businesses and individuals by creating digital solutions that are not
 
 <div align="center">
 
-| 🌐 **Web Development** | 📱 **Mobile Apps** | ☁️ **Cloud Solutions** | 🎨 **UI/UX Design** |
-|:---:|:---:|:---:|:---:|
-| Modern, responsive websites built with cutting-edge technologies | Native and cross-platform mobile applications | Scalable cloud infrastructure and deployment | User-centered design that converts and engages |
+# 🌐
+**Web Development**  
+Modern, responsive websites built with cutting-edge technologies
+
+# 📱
+**Mobile Apps**  
+Native and cross-platform mobile applications
+
+# ☁️
+**Cloud Solutions**  
+Scalable cloud infrastructure and deployment
+
+# 🎨
+**UI/UX Design**  
+User-centered design that converts and engages
 
 </div>
 
@@ -83,6 +99,8 @@ From concept to launch, we help startups and enterprises build products that use
 
 ## 🌟 Featured Projects
 
+<div align="center">
+
 ### 🏆 **Project Alpha** - *E-commerce Platform*
 **Tech Stack:** React, Node.js, MongoDB, AWS  
 **Impact:** 300% increase in conversion rates  
@@ -102,19 +120,33 @@ From concept to launch, we help startups and enterprises build products that use
 **Impact:** 50K+ downloads in first month  
 [![App Store](https://img.shields.io/badge/App-Store-000000?style=flat-square&logo=apple)](https://apps.apple.com/app/project-gamma) [![Play Store](https://img.shields.io/badge/Google-Play-414141?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.vision2x.gamma)
 
+</div>
+
 ---
 
 ## 📈 Our Impact
 
 <div align="center">
 
-| Metric | Achievement |
-|:---:|:---:|
-| 🎯 **Projects Delivered** | 150+ |
-| 👥 **Happy Clients** | 80+ |
-| 🌍 **Countries Served** | 15+ |
-| ⭐ **Client Satisfaction** | 98% |
-| 🚀 **Years of Experience** | 8+ |
+# 🎯
+**150+**  
+Projects Delivered
+
+# 👥  
+**80+**  
+Happy Clients
+
+# 🌍
+**15+**  
+Countries Served
+
+# ⭐
+**98%**  
+Client Satisfaction
+
+# 🚀
+**8+**  
+Years of Experience
 
 </div>
 
