@@ -35,7 +35,7 @@ To empower businesses and individuals by creating digital solutions that are not
 ### 🧑‍💻 Tharindu Kalhara
 **Chief Executive Officer & Co-Founder**
 
-![Untitled design](https://github.com/user-attachments/assets/f7663dcf-e517-4750-a35c-c561558a9938)
+![Untitled design](https://github.com/user-attachments/assets/843f21b6-c422-4c68-b1c8-ec717d626966)
 
 
 *Visionary leader with 10+ years in software development and business strategy. Passionate about turning innovative ideas into market-ready solutions.*
