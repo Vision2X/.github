@@ -1,5 +1,9 @@
+<div align="center">
+
 # 🚀 Vision2X
-### *Transforming Ideas into Seamless Experiences*
+# *Transforming Ideas into Seamless Experiences*
+
+</div>
 
 <div align="center">
   
@@ -63,21 +67,40 @@ To empower businesses and individuals by creating digital solutions that are not
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 # 🌐
 **Web Development**  
 Modern, responsive websites built with cutting-edge technologies
+
+</td>
+<td align="center" width="50%">
 
 # 📱
 **Mobile Apps**  
 Native and cross-platform mobile applications
 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
 # ☁️
 **Cloud Solutions**  
 Scalable cloud infrastructure and deployment
 
+</td>
+<td align="center" width="50%">
+
 # 🎨
 **UI/UX Design**  
 User-centered design that converts and engages
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -191,7 +214,5 @@ Ready to transform your ideas into seamless experiences? Let's build something a
 ### 🌟 *"Your Vision, Our Execution - Seamless Experiences Delivered"* 🌟
 
 **© 2024 Vision2X. All Rights Reserved.**
-
-![Footer](https://via.placeholder.com/1200x100/667eea/ffffff?text=Thank+You+for+Visiting+Vision2X)
 
 </div>
