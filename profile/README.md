@@ -46,10 +46,11 @@ To empower businesses and individuals by creating digital solutions that are not
 </td>
 <td align="center" width="50%">
 
-### 👩‍💻 [Founder Name 2]
+### 👩‍💻 Avishka Induwara
 **Chief Technology Officer & Co-Founder**
 
-![Founder 2](https://via.placeholder.com/200x200/667eea/ffffff?text=CTO)
+![Untitled design (1)](https://github.com/user-attachments/assets/a2d982e1-48ca-44fe-a4e1-0ecaacf9ee8f)
+
 
 *Technical innovator with expertise in full-stack development and system architecture. Committed to building scalable, robust solutions.*
 
