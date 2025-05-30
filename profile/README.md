@@ -7,7 +7,7 @@
 
 <div align="center">
   
-![Vision2X Banner](https://via.placeholder.com/1200x400/667eea/ffffff?text=Vision2X+%7C+Transforming+Ideas+into+Seamless+Experiences)
+![V2O  white](https://github.com/user-attachments/assets/f73dc9dc-ae56-4614-8d1d-5a312cc06337)
 
 [![Website](https://img.shields.io/badge/Website-vision2x.com-blue?style=for-the-badge)](https://vision2x.com)
 [![Email](https://img.shields.io/badge/Email-hello@vision2x.com-red?style=for-the-badge)](mailto:hello@vision2x.com)
