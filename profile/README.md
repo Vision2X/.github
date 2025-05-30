@@ -72,15 +72,15 @@ To empower businesses and individuals by creating digital solutions that are not
 <td align="center" width="50%">
 
 # 🌐
-**Web Development**  
-Modern, responsive websites built with cutting-edge technologies
+## **Web Development**  
+### Modern, responsive websites built with cutting-edge technologies
 
 </td>
 <td align="center" width="50%">
 
 # 📱
-**Mobile Apps**  
-Native and cross-platform mobile applications
+## **Mobile Apps**  
+### Native and cross-platform mobile applications
 
 </td>
 </tr>
@@ -88,15 +88,15 @@ Native and cross-platform mobile applications
 <td align="center" width="50%">
 
 # ☁️
-**Cloud Solutions**  
-Scalable cloud infrastructure and deployment
+## **Cloud Solutions**  
+### Scalable cloud infrastructure and deployment
 
 </td>
 <td align="center" width="50%">
 
 # 🎨
-**UI/UX Design**  
-User-centered design that converts and engages
+## **UI/UX Design**  
+### User-centered design that converts and engages
 
 </td>
 </tr>
@@ -124,24 +124,64 @@ From concept to launch, we help startups and enterprises build products that use
 
 <div align="center">
 
-### 🏆 **Project Alpha** - *E-commerce Platform*
+<table>
+<tr>
+<td align="center" width="50%">
+
+# 🏆
+## **Project Alpha**  
+### *E-commerce Platform*
+
 **Tech Stack:** React, Node.js, MongoDB, AWS  
 **Impact:** 300% increase in conversion rates  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://project-alpha-demo.com) [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/vision2x/project-alpha)
 
----
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://project-alpha-demo.com)  
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/vision2x/project-alpha)
 
-### 🎨 **Project Beta** - *SaaS Dashboard*
+</td>
+<td align="center" width="50%">
+
+# 🎨
+## **Project Beta**  
+### *SaaS Dashboard*
+
 **Tech Stack:** Vue.js, Python, PostgreSQL, Docker  
 **Impact:** Reduced user onboarding time by 70%  
-[![Case Study](https://img.shields.io/badge/Case-Study-blue?style=flat-square)](https://vision2x.com/case-studies/beta) [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/vision2x/project-beta)
 
----
+[![Case Study](https://img.shields.io/badge/Case-Study-blue?style=flat-square)](https://vision2x.com/case-studies/beta)  
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/vision2x/project-beta)
 
-### 🚀 **Project Gamma** - *Mobile App*
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+# 🚀
+## **Project Gamma**  
+### *Mobile App*
+
 **Tech Stack:** React Native, Firebase, GraphQL  
 **Impact:** 50K+ downloads in first month  
-[![App Store](https://img.shields.io/badge/App-Store-000000?style=flat-square&logo=apple)](https://apps.apple.com/app/project-gamma) [![Play Store](https://img.shields.io/badge/Google-Play-414141?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.vision2x.gamma)
+
+[![App Store](https://img.shields.io/badge/App-Store-000000?style=flat-square&logo=apple)](https://apps.apple.com/app/project-gamma)  
+[![Play Store](https://img.shields.io/badge/Google-Play-414141?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.vision2x.gamma)
+
+</td>
+<td align="center" width="50%">
+
+# 💡
+## **Project Delta**  
+### *AI-Powered Analytics*
+
+**Tech Stack:** Python, TensorFlow, React, AWS  
+**Impact:** 85% improvement in data insights  
+
+[![Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://project-delta-demo.com)  
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/vision2x/project-delta)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -151,25 +191,40 @@ From concept to launch, we help startups and enterprises build products that use
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 # 🎯
-**150+**  
-Projects Delivered
+## **150+**  
+### Projects Delivered
+
+</td>
+<td align="center" width="50%">
 
 # 👥  
-**80+**  
-Happy Clients
+## **80+**  
+### Happy Clients
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
 # 🌍
-**15+**  
-Countries Served
+## **15+**  
+### Countries Served
+
+</td>
+<td align="center" width="50%">
 
 # ⭐
-**98%**  
-Client Satisfaction
+## **98%**  
+### Client Satisfaction
 
-# 🚀
-**8+**  
-Years of Experience
+</td>
+</tr>
+</table>
 
 </div>
 
