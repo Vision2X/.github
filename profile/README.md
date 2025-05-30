@@ -7,7 +7,7 @@
 
 <div align="center">
   
-![V2O  white](https://github.com/user-attachments/assets/f73dc9dc-ae56-4614-8d1d-5a312cc06337)
+![horizontal](https://github.com/user-attachments/assets/be2ac40c-9010-4fd7-af05-a7e9e41ef314)
 
 [![Website](https://img.shields.io/badge/Website-vision2x.com-blue?style=for-the-badge)](https://vision2x.com)
 [![Email](https://img.shields.io/badge/Email-hello@vision2x.com-red?style=for-the-badge)](mailto:hello@vision2x.com)
