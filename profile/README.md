@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🚀 Vision2X
-# *Transforming Ideas into Seamless Experiences*
-
+# Vision2X
 </div>
 
 <div align="center">
@@ -34,10 +32,10 @@ To empower businesses and individuals by creating digital solutions that are not
 <tr>
 <td align="center" width="50%">
 
-### 🧑‍💻 [Founder Name 1]
+### 🧑‍💻 Tharindu Kalhara
 **Chief Executive Officer & Co-Founder**
+![Untitled design](https://github.com/user-attachments/assets/89036d03-3b71-4fc9-ad47-93859765ed52)
 
-![Founder 1](https://via.placeholder.com/200x200/667eea/ffffff?text=CEO)
 
 *Visionary leader with 10+ years in software development and business strategy. Passionate about turning innovative ideas into market-ready solutions.*
 
